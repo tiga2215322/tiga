@@ -3,55 +3,66 @@
 
 ### 🎓 Computer Science Student | Mateur, Tunisia 🇹🇳
 
-<img align="right" width="300" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" />
+Welcome to my GitHub profile!
 
-```text
-01010100 01001001 01000111 01000001
-Wake up, coder...
-The Matrix is waiting for you.
-```
+I'm a Computer Science student passionate about programming, software development, and learning new technologies.
 
-> There are 10 types of people in the world:
-> those who understand binary and those who don't. 🟢
+- 🎓 Studying Computer Science in Mateur, Tunisia.
+- 💻 Learning and practicing programming.
+- 🌱 Improving my coding skills through personal projects.
+- 🎯 My goal is to become a skilled software engineer.
 
 ---
 
-## 💻 Technologies I Love
+## 🚀 Languages & Technologies
 
-- ☕ Java
-- 🐍 Python
-- 🌐 HTML & CSS
-- 🐘 PHP
-- 🖥️ Qt Designer
-- ⚙️ C Programming
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,php,qt,vscode" />
+</p>
 
 ## 🛠️ Tools I Use
 
-- Visual Studio Code
-- Git & GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
 
-## 🕶️ Hacker Mode: ON
+## 📚 Currently Learning
+
+- Programming with Java and Python
+- Web development with HTML, CSS, and PHP
+- Writing and improving clean code
+- Building projects and learning from open-source repositories
+
+## 🎮 Hobbies & Interests
+
+- 🎮 Gaming: VALORANT, eFootball, and FIFA
+- ⚽ Football: Watching matches and enjoying the game
+- 💻 Programming: Exploring new technologies and building projects
+- 🧠 Learning: Always curious to learn anything useful
+- 🔍 Exploring: Discovering new skills, tools, and ideas
+
+## 🕶️ My Mindset
 
 ```python
-class TIGA:
-    role = "Computer Science Student"
-    location = "Mateur, Tunisia"
-    mission = "Learn. Code. Build. Repeat."
-
-    def ambition(self):
-        return "Become a Software Engineer"
+while True:
+    learn_something_new()
+    improve_my_skills()
+    build_something_useful()
 ```
 
-## 🌱 Currently Learning
+> 💚 Stay curious. Keep learning. Never stop improving.
 
-- Programming and problem solving
-- Web development
-- Building real-world projects
+## 📂 My Projects
+
+I'm working on improving my skills and building projects.
+Check back soon for more!
 
 ## 🌐 Connect With Me
 
-[![Instagram](https://img.shields.io/badge/Instagram-Connect-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](INSTAGRAM_LINK_HERE)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow_Me-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youssef_belhadj_salah/)
 
 ---
 
-**< > Code is my weapon. Knowledge is my power. 🟢**
+⭐ Thanks for visiting my profile!
+
+**</> Code is my weapon. Knowledge is my power. 🟢**
