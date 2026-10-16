@@ -3,40 +3,50 @@
 
 ### 🎓 Computer Science Student | Mateur, Tunisia 🇹🇳
 
-Welcome to my GitHub profile!
+<img align="right" width="300" src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" />
 
-I'm a Computer Science student passionate about programming, software development, and learning new technologies.
+```text
+01010100 01001001 01000111 01000001
+Wake up, coder...
+The Matrix is waiting for you.
+```
 
-- 🎓 Studying Computer Science in Mateur, Tunisia.
-- 💻 Learning and practicing programming.
-- 🌱 Improving my coding skills through personal projects.
-- 🎯 My goal is to become a skilled software engineer.
+> There are 10 types of people in the world:
+> those who understand binary and those who don't. 🟢
 
 ---
 
-## 🚀 Languages & Technologies
+## 💻 Technologies I Love
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,php,qt,vscode" />
-</p>
+- ☕ Java
+- 🐍 Python
+- 🌐 HTML & CSS
+- 🐘 PHP
+- 🖥️ Qt Designer
+- ⚙️ C Programming
 
 ## 🛠️ Tools I Use
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
-</p>
+- Visual Studio Code
+- Git & GitHub
 
-## 📚 Currently Learning
+## 🕶️ Hacker Mode: ON
 
-- Programming with Java and Python
-- Web development with HTML, CSS, and PHP
-- Writing and improving clean code
-- Building projects and learning from open-source repositories
+```python
+class TIGA:
+    role = "Computer Science Student"
+    location = "Mateur, Tunisia"
+    mission = "Learn. Code. Build. Repeat."
 
-## 📂 My Projects
+    def ambition(self):
+        return "Become a Software Engineer"
+```
 
-I'm working on improving my skills and building projects.
-Check back soon for more!
+## 🌱 Currently Learning
+
+- Programming and problem solving
+- Web development
+- Building real-world projects
 
 ## 🌐 Connect With Me
 
@@ -44,4 +54,4 @@ Check back soon for more!
 
 ---
 
-⭐ Thanks for visiting my profile!
+**< > Code is my weapon. Knowledge is my power. 🟢**
